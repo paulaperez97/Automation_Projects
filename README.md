@@ -1,5 +1,3 @@
-Here you go — copy everything below:
-
 # Automation Projects Portfolio
 
 A collection of business process automations built with Zapier, AI, and third-party integrations.
